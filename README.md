@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center"> Majestic-Fire
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majestic-Fire/Majestic-Fire/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majestic-Fire/Majestic-Fire/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majestic-Fire/Majestic-Fire/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Stats ✨
 <a href="https://github.com/Majestic-Fire/">
