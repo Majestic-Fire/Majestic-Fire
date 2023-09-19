@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> Majestic-Fire
+<p align="center"> Majestic-Fire </p>
 
 <h3 align="center"> 😥 Hungry Snake 🐍 </h3>
 <picture>
@@ -10,14 +10,21 @@
 </picture>
 
 ## Stats ✨
-<div>
-<a href="https://github.com/Majestic-Fire/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Majestic-Fire" />
-</a>
-<a href="https://github.com/Majestic-Fire/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic-Fire&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Majestic-Fire/">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Majestic-Fire" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Majestic-Fire/">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic-Fire&layout=compact&langs_count=8&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- CheckList -->
 <!-- - [x] sdkljf
