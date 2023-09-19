@@ -2,6 +2,7 @@
 
 <p align="center"> Majestic-Fire
 
+<h3 align="center"> 😥 Hungry Snake 🐍 </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majestic-Fire/Majestic-Fire/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majestic-Fire/Majestic-Fire/output/github-contribution-grid-snake.svg">
@@ -9,13 +10,18 @@
 </picture>
 
 ## Stats ✨
+<div>
 <a href="https://github.com/Majestic-Fire/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Majestic-Fire" />
 </a>
 <a href="https://github.com/Majestic-Fire/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic-Fire&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
 
+<!-- CheckList -->
+<!-- - [x] sdkljf
+- [x] sdkljf -->
 
 <!-- Testing -->
 <!--
