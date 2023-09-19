@@ -12,10 +12,10 @@
 ## Stats ✨
 
 <style>
-table {border: none;}​
+.table {border: none;}​
 </style>
 
-<table cellspacing="0" cellpadding="0">
+<table class="table" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://github.com/Majestic-Fire/">
