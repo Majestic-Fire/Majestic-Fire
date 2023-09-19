@@ -10,25 +10,12 @@
 </picture>
 
 ## Stats ✨
-
-<style>
-.table {border: none;}​
-</style>
-
-<table class="table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="https://github.com/Majestic-Fire/">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Majestic-Fire" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Majestic-Fire/">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic-Fire&layout=compact&langs_count=8&card_width=320" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Majestic-Fire/">
+  <img height=173 align="center" src="https://github-readme-stats.vercel.app/api?username=Majestic-Fire" />
+</a>
+<a href="https://github.com/Majestic-Fire/">
+  <img height=173 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic-Fire&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!-- CheckList -->
 <!-- - [x] sdkljf
